@@ -1,11 +1,11 @@
 # Site settings
 title: Northeast Georgia Orchid Society (NEGOS)
-description: Meets at 2:00 PM on the 3rd Sunday of each month in the Gardenside Room of the State Botanical Garden of Georgia.
-cover: assets/images/radhakrishna.jpg
-logo: https://avatars0.githubusercontent.com/u/35668894?s=200&v=3
-favicon: https://avatars0.githubusercontent.com/u/35668894?s=200&v=3 # assets/images/favicon.png
-baseurl: # the subpath of your site, e.g. /blog/ or / for root
-url: "https://negaos.github.io" # the base hostname & protocol for your site
+description: Join us at 2:00 PM on the 3rd Sunday of each month.  We meet in the Gardenside Room of the State Botanical Garden of Georgia in Athens, GA.
+cover: assets/images/coverPhoto.jpg
+logo: assets/images/logo.svg
+favicon: assets/images/logo.svg # assets/images/favicon.png
+baseurl: "https://negos.github.io/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://negaos.github.io/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
@@ -31,20 +31,21 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-plugins:
+plugins_dir:
   - jekyll-paginate
 
+gems: [jekyll-paginate]
 
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: negaos #github username
+repo: negaos #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+#relative_source: ../negaos/ #source directory
+#destination: ../negaos-pages/ #destination directory
+#production_url:  https://samanyougarg.com/
+#source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
 exclude:
   - README.md

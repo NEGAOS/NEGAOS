@@ -4,29 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+We are a group of orchid enthusiests that meets the third Sunday of each month (more or less) in the Gardenside Room at the State Botanical Garden of Georgia in Athens, Georgia.  Every month, a different member shares knowledge on orchid-related topics and we have an informal show-and-tell for blooming orhcids.  Novice or expert welcome -- please join use to share your knowledge or learn from seasoned orchid growers, and bring you blooming orchids to show off or your diseased orchids for help.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+Membership in our organization is free.  If you would like to join, check our [calendar](https://calendar.google.com/calendar?cid=OGdwZmVwczhnZGNmYWdxdWJnYmNuZHYyYmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for the next meeting and come join us.  You can also e-mail us and request to have your name added to our e-mail list (we only send information about upcoming meetings and never give out your information).  You can also like our Facebook page or join our group on Orchid Board.
 
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
+Hope to see you at our next meeting!
 
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
- vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
- pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
- Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+- The Northeast Georgia Orchid Society
