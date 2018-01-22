@@ -4,18 +4,17 @@ description: Join us at 2:00 PM on the 3rd Sunday of each month.  We meet in the
 cover: assets/images/coverPhoto.jpg
 logo: assets/images/logo.svg
 favicon: assets/images/logo.svg # assets/images/favicon.png
-baseurl: "https://negos.github.io/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://negaos.github.io/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://negos.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+facebook: Northeast-Georgia-Orchid-Society-128617363819993/
 
 #Additional Pages
 about: about
-contact: contact
+contact: mailto:northeastgaorchidsociety@gmail.com
+presentations: presentations
 privacy-policy: privacy-policy
 
 
